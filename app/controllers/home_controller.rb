@@ -7,4 +7,8 @@ class HomeController < ApplicationController
 
   def about
   end
+
+  def _body
+  end
+
 end

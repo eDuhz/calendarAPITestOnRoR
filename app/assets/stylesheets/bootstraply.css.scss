@@ -7,6 +7,7 @@ $pagination-color: rgb(96, 95, 194);
 $pagination-active-color: #e9e9e9;
 $pagination-disabled-color:  rgb(96, 95, 194);
 
+
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
 
@@ -15,6 +16,17 @@ $pagination-disabled-color:  rgb(96, 95, 194);
     text-align: center;
 }
 
-.inside {
+h3{
+    font-family: "Times New Roman";
+    font-size: 24px;
+}
 
+h2{
+    font-family: "Times New Roman";
+    font-size: 30px;
+}
+
+*{
+    font-family: "Times New Roman";
+    font-size: 20px;
 }
